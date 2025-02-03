@@ -131,7 +131,11 @@ Ensure you have the following installed:
 
 
 
-https://github.com/thisischrissie/group7-CFG-Fullstack/assets/153684178/af391ee2-c2f1-4c9d-bc81-bd69a67426c0
+
+
+https://github.com/user-attachments/assets/48ccccff-aa8f-426f-878b-d521faf16b6a
+
+
 
 
 
